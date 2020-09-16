@@ -1,4 +1,4 @@
-import styles from './style.css';
+import styles from './style.css'; // технология CSS-modules - уникальные стили для каждого компонента, чтобы не было конфликтов названий в разных css-файлах
 import React from 'react';
 import ReactDOM from 'react-dom';
 
